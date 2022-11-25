@@ -1,0 +1,7 @@
+.prevent-user-select {
+    -webkit-user-select: none; /* Disable selection/copy in UIWebView */
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+};
